@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702328697 source:d:\c code-codeblocks\momeetcalcul\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1702329116 source:d:\c code-codeblocks\momeetcalculfr\main.c
+	<stdio.h>
+	<stdlib.h>
+
